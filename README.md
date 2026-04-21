@@ -1,20 +1,28 @@
 # 🧪 testing
 
-Repositorio orientado a **pruebas de software**, pensado para agrupar ejercicios, validaciones y trabajo relacionado con calidad.
+Repositorio orientado a **pruebas de software**, útil para concentrar ejemplos de validación, automatización y aseguramiento básico de calidad.
 
-## Descripción
+---
 
-Funciona como contenedor de ejemplos o estructuras base para testing, aportando visibilidad al enfoque QA dentro del portafolio.
+## 📌 Objetivo
 
-## Objetivo
+Dar visibilidad al enfoque de testing dentro del portafolio y conservar ejercicios o pruebas reutilizables.
 
-Conservar y documentar trabajo vinculado a pruebas automatizadas o validaciones técnicas.
+## 🧩 Qué puede contener
 
-## Uso
+- Pruebas unitarias.
+- Pruebas funcionales.
+- Casos de validación manual o automatizada.
+- Estructuras base para QA.
 
-Revisa el contenido del repositorio según el tipo de prueba o herramienta incluida.
+## ▶️ Uso general
 
-## Autor
+```bash
+git clone git@github.com:Carl0gonzalez/testing.git
+cd testing
+```
+
+## 👤 Autor
 
 **Carlo González**
 
